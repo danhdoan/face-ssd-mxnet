@@ -1,6 +1,9 @@
 # Face-SSD-MXNet
 Face Detector trained by SSD by WIDER dataset
+
 By Danh Doan
+
+Demo video available here: [[link]](https://www.youtube.com/watch?v=piMtnmZjz-U)
 
 ## 0. Installation
 * Install MXNet framework and GluonCV toolkit
